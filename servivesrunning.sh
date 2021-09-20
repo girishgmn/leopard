@@ -7,3 +7,4 @@ do
 		echo "$i service is not running"
 	fi
 done	
+echo "girish"
